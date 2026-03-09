@@ -14,7 +14,7 @@
 
 # File Details
 **[EDA Notebook](FinalArtMuseumEDA%20(2).ipynb):** Python file containing EDA report.
-**- [SQL Documentation](SQL_Documentation%20(2).ipynb):** SQL file containing queries along with documentation that were relevant to EDA.
+** [SQL Documentation](SQL_Documentation%20(2).ipynb):** SQL file containing queries along with documentation that were relevant to EDA.
 
 
 # GenAI Usage
