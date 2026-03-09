@@ -5,6 +5,8 @@
 
 **The project focuses on four main questions: which origins and classifications are most represented in each museum, how representation changes across historical periods, whether certain origins are concentrated in specific object types or mediums, and how well basic collection features help predict origin categories in a simple classification model. Together, these sections aim to show not just what each museum holds, but how each collection is structured.**
 
+**Presentation** [(https://www.canva.com/design/DAHDM-olVpo/t_fQ5YTLdMBFZ8Ibo4J6PA/edit?utm_content=DAHDM-olVpo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)](https://www.canva.com/design/DAHDM-olVpo/t_fQ5YTLdMBFZ8Ibo4J6PA/edit?utm_content=DAHDM-olVpo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 
 # Data Source
 **The data used for this EDA are sourced from the github repos hosting the OpenAccess collections from the Metropolitan Museum of Art and the Art Institute of Chicago. They can be found through the following links:**
