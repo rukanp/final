@@ -5,7 +5,7 @@
 
 **The project focuses on four main questions: which origins and classifications are most represented in each museum, how representation changes across historical periods, whether certain origins are concentrated in specific object types or mediums, and how well basic collection features help predict origin categories in a simple classification model. Together, these sections aim to show not just what each museum holds, but how each collection is structured.**
 
-**Presentation** [(https://www.canva.com/design/DAHDM-olVpo/t_fQ5YTLdMBFZ8Ibo4J6PA/edit?utm_content=DAHDM-olVpo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)](https://www.canva.com/design/DAHDM-olVpo/t_fQ5YTLdMBFZ8Ibo4J6PA/edit?utm_content=DAHDM-olVpo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+**Presentation**: [(https://www.canva.com/design/DAHDM-olVpo/t_fQ5YTLdMBFZ8Ibo4J6PA/edit?utm_content=DAHDM-olVpo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)](https://www.canva.com/design/DAHDM-olVpo/t_fQ5YTLdMBFZ8Ibo4J6PA/edit?utm_content=DAHDM-olVpo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 
 # Data Source
@@ -16,7 +16,7 @@
 
 # File Details
 **[EDA Notebook](FinalArtMuseumEDA%20(2).ipynb):** Python file containing EDA report.
-** [SQL Documentation](SQL_Documentation%20(2).ipynb):** SQL file containing queries along with documentation that were relevant to EDA.
+**[SQL Documentation](SQL_Documentation%20(2).ipynb):** SQL file containing queries along with documentation that were relevant to EDA.
 
 
 # GenAI Usage
