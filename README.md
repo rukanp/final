@@ -13,8 +13,8 @@
 **Metropolitan Museum of Art:** https://github.com/metmuseum/openaccess 
 
 # File Details
-**[INSERT EDA FILE HERE]:** Python file containing EDA report.
-**[INSERT SQL FILE HERE]:** SQL file containing queries along with documentation that were relevant to EDA.
+**[EDA Notebook](FinalArtMuseumEDA.ipynb):** Python file containing EDA report.
+**- [SQL Documentation](SQL_Documentation%20(2).ipynb):** SQL file containing queries along with documentation that were relevant to EDA.
 
 
 # GenAI Usage
